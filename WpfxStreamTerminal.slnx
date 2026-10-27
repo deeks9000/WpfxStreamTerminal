@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SerialStreamShell/SerialStreamShell.csproj" />
+  <Project Path="TcpStreamShell/TcpStreamShell.csproj" />
+  <Project Path="WpfxStreamTerminal/WpfxStreamTerminal.csproj" DefaultStartup="true" />
+</Solution>
